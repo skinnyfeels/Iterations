@@ -11,7 +11,7 @@ $(document).ready(function() {
             '<h3>Echo</h3><p>Repeat. Again and again, but less and less.</p>',
             '<h3>Enhance</h3><p>Furnish with elements of beauty.</p>',
             '<h3>Possess</h3><p>Imbibe with the spirit of a personal hero.</p>',
-            '<h3>Explode</h3><p>Fragmentinto disorganised parts.</p>',
+            '<h3>Explode</h3><p>Fragment into disorganised parts.</p>',
             '<h3>Remix</h3><p>Combine all the previous.</p>',
             '<h3>Respawn</h3><p>Re-create all in a new way.</p>',
             '<h3>Abort</h3><p>Prematurely complete. End here.</p>',
